@@ -1,5 +1,5 @@
 # Hi there, I'm Nivin Chacko Eapen 👋
-### Lead Data Engineer | Lead Data Architect | Azure & Databricks Expert
+### Lead Data Engineer | Data Architect | Azure & Databricks Expert
 
 ---
 
