@@ -1,8 +1,34 @@
-Lead Data Engineer & Architect
+# Hi there, I'm Nivin Chacko Eapen 👋
+### Lead Data Architect | Azure & Databricks Expert
 
-🏗️ Designing: Production-grade Medallion Lakehouses & Delta Live Tables.
-⚙️ Optimizing: Spark Skew Handling (Salting), AQE, and Liquid Clustering.
-🛡️ Securing: Unity Catalog, Azure Purview, and Private Cloud Networking.
-🤖 Automating: DataOps via Azure DevOps (YAML) & GitHub Actions.
+---
 
-📍 Currently focused on operationalizing MLOps and Modern Data Stack migrations.
+### 🚀 Professional Mission
+* **Architecture:** Designing scalable, production-grade Medallion Lakehouses on Azure.
+* **Optimization:** Slashed compute costs by 30% via advanced Spark tuning & Salting.
+* **Security:** Implementing Zero-Trust data estates via Private Endpoints & Unity Catalog.
+* **Leadership:** Mentoring Agile teams to deliver high-quality, DataOps-driven solutions.
+
+---
+
+### 🛠️ Technical Stack
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud/Big Data** | Azure Databricks, Spark 3.x, Azure Fabric, Delta Lake, Synapse |
+| **Orchestration** | Azure Data Factory (ADF), Databricks Workflows, Event Hubs |
+| **DevOps/IaC** | Azure DevOps (YAML), GitHub, Terraform, Bicep |
+| **Languages** | Python, PySpark, Spark SQL, T-SQL, Bash |
+| **Governance** | Unity Catalog, Azure Purview, Azure Key Vault |
+
+---
+
+### 📈 Current Focus
+- 🔭 Building automated Data Quality frameworks (Great Expectations).
+- 🌱 Mastering MLOps integration within the Medallion architecture.
+- ⚡ Optimizing "Near Real-Time" streaming via Delta Live Tables (DLT).
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** ae.linkedin.com/in/nivinceapen
+- **Portfolio:** Check out my pinned repositories below for architectural blueprints!
