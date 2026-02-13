@@ -14,10 +14,10 @@
 ### 🛠️ Technical Stack
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Cloud/Big Data** | Azure Databricks, Spark 3.x, Azure Fabric, Delta Lake, Synapse |
+| **Cloud/Big Data** | Azure Databricks, Spark, Delta Lake, Synapse |
 | **Orchestration** | Azure Data Factory (ADF), Databricks Workflows, Event Hubs |
-| **DevOps/IaC** | Azure DevOps (YAML), GitHub, Terraform, Bicep |
-| **Languages** | Python, PySpark, Spark SQL, T-SQL, Bash |
+| **DevOps/IaC** | Azure DevOps (YAML), GitHub |
+| **Languages** | Python, PySpark, Spark SQL, T-SQL |
 | **Governance** | Unity Catalog, Azure Purview, Azure Key Vault |
 
 ---
@@ -30,5 +30,5 @@
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** ae.linkedin.com/in/nivinceapen
+- **LinkedIn:** [ae.linkedin.com/in/nivinceapen](https://ae.linkedin.com/in/nivinceapen)
 - **Portfolio:** Check out my pinned repositories below for architectural blueprints!
